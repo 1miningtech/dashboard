@@ -1,0 +1,400 @@
+ [2014-05-30 21:35:43] Started cgminer 3.9.0                    
+ [2014-05-30 21:35:43] Run Reset=0                    
+ [2014-05-30 21:35:43] SPI Speed 4000 kHz                    
+ [2014-05-30 21:35:43] ST MCU - Enable (Pre-header)                    
+ [2014-05-30 21:35:43] A1 = 1000,2                    
+ [2014-05-30 21:35:43] A1 PLL Clock = 1000MHz                    
+ [2014-05-30 21:35:43] A1 = 1000,2                    
+ [2014-05-30 21:35:43] A1 PLL Clock = 1000MHz                    
+ [2014-05-30 21:35:43] A1 = 1000,2                    
+ [2014-05-30 21:35:43] A1 PLL Clock = 1000MHz                    
+ [2014-05-30 21:35:43] A1 = 1000,2                    
+ [2014-05-30 21:35:43] A1 PLL Clock = 1000MHz                    
+ [2014-05-30 21:35:43] A1 = 1000,2                    
+ [2014-05-30 21:35:43] A1 PLL Clock = 1000MHz                    
+ [2014-05-30 21:35:43] ASIC Difficulty =  128                    
+ [2014-05-30 21:35:43] AUTO GPIO CS                    
+ [2014-05-30 21:35:49] spidev0.0(cs0): Found 8 A1 chips                    
+ [2014-05-30 21:35:49] Found chip 1 with 32 active cores                    
+ [2014-05-30 21:35:49] Found chip 2 with 32 active cores                    
+ [2014-05-30 21:35:49] Found chip 3 with 32 active cores                    
+ [2014-05-30 21:35:49] Found chip 4 with 32 active cores                    
+ [2014-05-30 21:35:49] Found chip 5 with 32 active cores                    
+ [2014-05-30 21:35:49] Found chip 6 with 32 active cores                    
+ [2014-05-30 21:35:49] Found chip 7 with 32 active cores                    
+ [2014-05-30 21:35:49] Found chip 8 with 32 active cores                    
+ [2014-05-30 21:35:49] Found 8 chips with total 256 active cores                    
+ [2014-05-30 21:35:55] spidev0.0(cs1): Found 8 A1 chips                    
+ [2014-05-30 21:35:55] Found chip 1 with 32 active cores                    
+ [2014-05-30 21:35:55] Found chip 2 with 32 active cores                    
+ [2014-05-30 21:35:55] Found chip 3 with 32 active cores                    
+ [2014-05-30 21:35:55] Found chip 4 with 32 active cores                    
+ [2014-05-30 21:35:55] Found chip 5 with 32 active cores                    
+ [2014-05-30 21:35:55] Found chip 6 with 32 active cores                    
+ [2014-05-30 21:35:55] Found chip 7 with 32 active cores                    
+ [2014-05-30 21:35:55] Found chip 8 with 32 active cores                    
+ [2014-05-30 21:35:55] Found 8 chips with total 256 active cores                    
+ [2014-05-30 21:35:55] SPI(cs2) no device                    
+ [2014-05-30 21:35:55] ACK(cs2) timeout:cmd_RESET_BCAST-0.0467s                    
+ [2014-05-30 21:36:01] spidev0.0(cs3): Found 8 A1 chips                    
+ [2014-05-30 21:36:01] Found chip 1 with 32 active cores                    
+ [2014-05-30 21:36:01] Found chip 2 with 32 active cores                    
+ [2014-05-30 21:36:01] Found chip 3 with 32 active cores                    
+ [2014-05-30 21:36:01] Found chip 4 with 32 active cores                    
+ [2014-05-30 21:36:01] Found chip 5 with 32 active cores                    
+ [2014-05-30 21:36:01] Found chip 6 with 32 active cores                    
+ [2014-05-30 21:36:01] Found chip 7 with 32 active cores                    
+ [2014-05-30 21:36:01] Found chip 8 with 32 active cores                    
+ [2014-05-30 21:36:01] Found 8 chips with total 256 active cores                    
+ [2014-05-30 21:36:01] SPI(cs4) no device                    
+ [2014-05-30 21:36:01] ACK(cs4) timeout:cmd_RESET_BCAST-0.0387s                    
+ [2014-05-30 21:36:07] spidev0.0(cs5): Found 8 A1 chips                    
+ [2014-05-30 21:36:07] Found chip 1 with 32 active cores                    
+ [2014-05-30 21:36:07] Found chip 2 with 32 active cores                    
+ [2014-05-30 21:36:07] Found chip 3 with 32 active cores                    
+ [2014-05-30 21:36:07] Found chip 4 with 32 active cores                    
+ [2014-05-30 21:36:07] Found chip 5 with 32 active cores                    
+ [2014-05-30 21:36:07] Found chip 6 with 32 active cores                    
+ [2014-05-30 21:36:07] Found chip 7 with 32 active cores                    
+ [2014-05-30 21:36:07] Found chip 8 with 32 active cores                    
+ [2014-05-30 21:36:07] Found 8 chips with total 256 active cores                    
+ [2014-05-30 21:36:07] A1 boards=4, active cores=1024, Efficient=100%, speed=800G                    
+ [2014-05-30 21:36:07] Probing for an alive pool                    
+ [2014-05-30 21:36:11] Pool 2 difficulty changed to 15.999756                    
+ [2014-05-30 21:36:11] Switching to pool 2 http://stratum.mining.eligius.st:3334 - first alive pool                    
+ [2014-05-30 21:36:11] Network diff set to 10.5G                    
+ [2014-05-30 21:36:13] Accepted 01c2f165 Diff 145/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:13] Accepted 01bc6b17 Diff 147/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:15] Accepted 01e6648c Diff 135/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:15] Accepted 2c189582 Diff 1.49K/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:15] Accepted 01e3219c Diff 136/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:16] API running in local read access mode on port 4028 (13)                    
+ [2014-05-30 21:36:16] Accepted 25670b4e Diff 1.75K/16 BA1 3 pool 2                     
+ [2014-05-30 21:36:16] Accepted 0146c0f7 Diff 201/16 BA1 3 pool 2                     
+(5s):308.2G (avg):791.2Gh/s | A:112  R:0  HW:0  WU:106.3/m           [2014-05-30 21:36:17] Accepted 01abc67e Diff 153/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:17] Accepted dde3e37e Diff 295/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:17] Accepted 01ef4ffc Diff 132/16 BA1 1 pool 2                     
+ [2014-05-30 21:36:17] Accepted b8a4cc98 Diff 355/16 BA1 3 pool 2                     
+ [2014-05-30 21:36:18] Accepted 012e52e1 Diff 217/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:19] Accepted b050f293 Diff 372/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:19] Accepted 01235c28 Diff 225/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:19] Accepted 01d6608a Diff 139/16 BA1 3 pool 2                     
+ [2014-05-30 21:36:21] Accepted 017f16e8 Diff 171/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:21] Accepted f482f6b4 Diff 268/16 BA1 0 pool 2                     
+(5s):567.3G (avg):883.0Gh/s | A:272  R:0  HW:0  WU:100.9/m           [2014-05-30 21:36:22] Accepted 01c796b2 Diff 144/16 BA1 1 pool 2                     
+ [2014-05-30 21:36:22] Accepted 0164b60a Diff 184/16 BA1 3 pool 2                     
+ [2014-05-30 21:36:22] Accepted 01dabe79 Diff 138/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:23] Accepted 427e2e00 Diff 986/16 BA1 3 pool 2                     
+ [2014-05-30 21:36:23] Accepted 01cbbf97 Diff 143/16 BA1 1 pool 2                     
+ [2014-05-30 21:36:25] Accepted 01e591a4 Diff 135/16 BA1 1 pool 2                     
+ [2014-05-30 21:36:25] Accepted a7aacadb Diff 391/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:25] Accepted 63e5a4bf Diff 656/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:25] Accepted af092df3 Diff 374/16 BA1 1 pool 2                     
+(5s):687.1G (avg):879.8Gh/s | A:416  R:0  HW:0  WU:102.2/m           [2014-05-30 21:36:29] Accepted 8da06686 Diff 463/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:29] Accepted 01705c14 Diff 178/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:30] Accepted 0113a9fe Diff 238/16 BA1 1 pool 2                     
+ [2014-05-30 21:36:31] Accepted 010edc9a Diff 242/16 BA1 1 pool 2                     
+ [2014-05-30 21:36:31] Accepted 0135b4ca Diff 212/16 BA1 0 pool 2                     
+(5s):661.4G (avg):814.7Gh/s | A:496  R:0  HW:0  WU:94.1/m           [2014-05-30 21:36:32] Accepted 01cc71a2 Diff 142/16 BA1 0 pool 2                     
+Set fan full speed..
+ [2014-05-30 21:36:33] Accepted 01685edb Diff 182/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:34] Accepted 2938b272 Diff 1.59K/16 BA1 2 pool 2                     
+set fan to low speed..
+ [2014-05-30 21:36:35] Accepted 01acc425 Diff 153/16 BA1 3 pool 2                     
+ [2014-05-30 21:36:36] Accepted fce7ab0b Diff 259/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:36] Accepted e3e0e18d Diff 288/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:37] Accepted 01cc3908 Diff 142/16 BA1 1 pool 2                     
+(5s):674.6G (avg):791.0Gh/s | A:608  R:0  HW:0  WU:89.6/m           [2014-05-30 21:36:37] Accepted 0143bc96 Diff 202/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:39] Pool 1 difficulty changed to 15.999756                    
+ [2014-05-30 21:36:40] Accepted 010c7fbd Diff 244/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:40] Accepted 03a9c5cb Diff 17.9K/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:40] Accepted f80b9b4c Diff 264/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:41] Accepted 7278d421 Diff 572/16 BA1 2 pool 2                     
+ [2014-05-30 21:36:41] Accepted d25b773f Diff 312/16 BA1 1 pool 2                     
+ [2014-05-30 21:36:41] Accepted 014680b3 Diff 201/16 BA1 1 pool 2                     
+ [2014-05-30 21:36:41] Pool 1 http://stratum.mining.eligius.st:3334 alive, testing stability                    
+ [2014-05-30 21:36:41] Pool 1 http://stratum.mining.eligius.st:3334 alive, testing stability                    
+ [2014-05-30 21:36:41] Switching to pool 1 http://stratum.mining.eligius.st:3334                    
+ [2014-05-30 21:36:41] Accepted 018acb81 Diff 166/16 BA1 0 pool 2                     
+ [2014-05-30 21:36:41] Accepted 014b9ad9 Diff 198/16 BA1 1 pool 2                     
+ [2014-05-30 21:36:41] Accepted 019ab5ea Diff 160/16 BA1 2 pool 2                     
+(5s):737.1G (avg):798.4Gh/s | A:768  R:0  HW:0  WU:94.5/m           [2014-05-30 21:36:42] Accepted 015a0259 Diff 189/16 BA1 3 pool 1                     
+ [2014-05-30 21:36:43] Accepted 2917daa7 Diff 1.59K/16 BA1 3 pool 1                     
+ [2014-05-30 21:36:43] Accepted 01c59671 Diff 144/16 BA1 2 pool 1                     
+ [2014-05-30 21:36:44] Accepted 01170488 Diff 235/16 BA1 0 pool 1                     
+ [2014-05-30 21:36:45] Accepted 86d742fe Diff 486/16 BA1 0 pool 1                     
+ [2014-05-30 21:36:45] Accepted c92f3ef5 Diff 326/16 BA1 1 pool 1                     
+Set fan full speed..
+ [2014-05-30 21:36:46] Accepted 23c970cb Diff 1.83K/16 BA1 0 pool 1                     
+ [2014-05-30 21:36:46] Accepted e8342afd Diff 282/16 BA1 3 pool 1                     
+(5s):846.0G (avg):829.5Gh/s | A:896  R:0  HW:0  WU:96.4/m           [2014-05-30 21:36:47] Accepted fbcd7a55 Diff 260/16 BA1 2 pool 1                     
+ [2014-05-30 21:36:47] Accepted 802de115 Diff 511/16 BA1 2 pool 1                     
+ [2014-05-30 21:36:48] Accepted 1447544f Diff 3.23K/16 BA1 1 pool 1                     
+ [2014-05-30 21:36:48] Accepted 5e2daa0e Diff 696/16 BA1 3 pool 1                     
+ [2014-05-30 21:36:48] Accepted 01b0cdf1 Diff 151/16 BA1 0 pool 1                     
+ [2014-05-30 21:36:48] chip(cs5) 7: invalid nonce 0x57c5c515                    
+ [2014-05-30 21:36:49] Accepted 0133f9c1 Diff 213/16 BA1 2 pool 1                     
+ [2014-05-30 21:36:49] Accepted 37405f15 Diff 1.19K/16 BA1 1 pool 1                     
+ [2014-05-30 21:36:50] Accepted 019c08df Diff 159/16 BA1 3 pool 1                     
+ [2014-05-30 21:36:50] Accepted 01debf33 Diff 137/16 BA1 1 pool 1                     
+ [2014-05-30 21:36:51] Accepted 01b2404c Diff 151/16 BA1 2 pool 1                     
+ [2014-05-30 21:36:51] Accepted 013507bd Diff 212/16 BA1 2 pool 1                     
+(5s):919.4G (avg):854.9Gh/s | A:1072  R:0  HW:1  WU:99.3/m          set fan to low speed..
+ [2014-05-30 21:36:54] Accepted 012a2b46 Diff 220/16 BA1 1 pool 1                     
+ [2014-05-30 21:36:54] Accepted 015f1120 Diff 187/16 BA1 3 pool 1                     
+ [2014-05-30 21:36:54] Accepted 0145e946 Diff 201/16 BA1 2 pool 1                     
+ [2014-05-30 21:36:54] Accepted b9b7ddbf Diff 353/16 BA1 1 pool 1                     
+ [2014-05-30 21:36:55] Accepted 168ec7ea Diff 2.9K/16 BA1 1 pool 1                     
+ [2014-05-30 21:36:55] Accepted 01c6db05 Diff 144/16 BA1 2 pool 1                     
+ [2014-05-30 21:36:56] Accepted 914cb57b Diff 451/16 BA1 2 pool 1                     
+(5s):955.8G (avg):872.4Gh/s | A:1184  R:0  HW:1  WU:97.6/m           [2014-05-30 21:36:57] Accepted 017bca7f Diff 173/16 BA1 3 pool 1                     
+ [2014-05-30 21:36:58] Accepted 017de393 Diff 172/16 BA1 2 pool 1                     
+ [2014-05-30 21:36:58] Accepted fd6c5fa2 Diff 259/16 BA1 2 pool 1                     
+ [2014-05-30 21:36:58] Accepted 01be01fc Diff 147/16 BA1 1 pool 1                     
+ [2014-05-30 21:36:59] Accepted 01d79850 Diff 139/16 BA1 2 pool 1                     
+ [2014-05-30 21:36:59] Accepted 01c3893d Diff 145/16 BA1 0 pool 1                     
+ [2014-05-30 21:36:59] Accepted 01cb3689 Diff 143/16 BA1 0 pool 1                     
+ [2014-05-30 21:37:00] Accepted 0167b541 Diff 182/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:01] Accepted 3e69afc3 Diff 1.05K/16 BA1 0 pool 1                     
+(5s):982.9G (avg):887.7Gh/s | A:1328  R:0  HW:1  WU:98.5/m           [2014-05-30 21:37:03] Accepted 010bfedc Diff 245/16 BA1 1 pool 1                     
+ [2014-05-30 21:37:05] Accepted 01937a14 Diff 162/16 BA1 0 pool 1                     
+ [2014-05-30 21:37:06] Accepted 01c68496 Diff 144/16 BA1 0 pool 1                     
+ [2014-05-30 21:37:06] Accepted 010776e9 Diff 249/16 BA1 1 pool 1                     
+ [2014-05-30 21:37:07] Accepted 47611992 Diff 918/16 BA1 1 pool 1                     
+(5s):1.002T (avg):901.0Gh/s | A:1408  R:0  HW:1  WU:94.9/m           [2014-05-30 21:37:07] Accepted e784c7d8 Diff 283/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:08] Accepted 012e2e65 Diff 217/16 BA1 2 pool 1                     
+ [2014-05-30 21:37:08] Accepted 707e587a Diff 583/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:08] Accepted 012c087a Diff 218/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:08] Accepted 0160f849 Diff 186/16 BA1 2 pool 1                     
+ [2014-05-30 21:37:09] Accepted 491591b4 Diff 897/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:10] Accepted c3a5c48e Diff 335/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:11] chip(cs0) 3: invalid nonce 0x6db492f9                    
+ [2014-05-30 21:37:11] Accepted 7f0d1f6c Diff 516/16 BA1 1 pool 1                     
+ [2014-05-30 21:37:11] Accepted 921ca5fc Diff 449/16 BA1 2 pool 1                     
+ [2014-05-30 21:37:11] Accepted 92c35e9f Diff 447/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:11] chip(cs0) 2: invalid nonce 0x9925ca96                    
+ [2014-05-30 21:37:12] Accepted 9be332d6 Diff 420/16 BA1 2 pool 1                     
+ [2014-05-30 21:37:12] Accepted 01f537e2 Diff 131/16 BA1 1 pool 1                     
+ [2014-05-30 21:37:12] Accepted 010c1553 Diff 244/16 BA1 2 pool 1                     
+ [2014-05-30 21:37:12] Accepted 0126f504 Diff 222/16 BA1 0 pool 1                     
+(5s):1.004T (avg):909.7Gh/s | A:1632  R:0  HW:3  WU:101.9/m           [2014-05-30 21:37:12] Accepted 01defc75 Diff 137/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:15] Accepted 01e21c75 Diff 136/16 BA1 2 pool 1                     
+Set fan full speed..
+ [2014-05-30 21:37:15] Accepted 01ac7238 Diff 153/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:15] Accepted 01c2e318 Diff 145/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:15] Accepted 01dbbdac Diff 138/16 BA1 0 pool 1                     
+ [2014-05-30 21:37:15] Accepted a294d759 Diff 403/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:15] Accepted 0146b527 Diff 201/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:15] Accepted 01b2b11e Diff 151/16 BA1 0 pool 1                     
+ [2014-05-30 21:37:15] Accepted c161ccda Diff 339/16 BA1 0 pool 1                     
+ [2014-05-30 21:37:15] Accepted 0185c067 Diff 168/16 BA1 2 pool 1                     
+ [2014-05-30 21:37:15] Accepted f30917f9 Diff 270/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:16] Accepted c26ad03b Diff 337/16 BA1 0 pool 1                     
+ [2014-05-30 21:37:16] Accepted 016d2a35 Diff 179/16 BA1 1 pool 1                     
+ [2014-05-30 21:37:16] Accepted 01e05dcd Diff 136/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:17] Accepted 013fa1b6 Diff 205/16 BA1 1 pool 1                     
+(5s):957.7G (avg):907.8Gh/s | A:1872  R:0  HW:3  WU:106.9/m           [2014-05-30 21:37:18] Accepted 01ee1fa9 Diff 133/16 BA1 3 pool 1                     
+ [2014-05-30 21:37:18] Accepted 0167dfba Diff 182/16 BA1 1 pool 1                     
+set fan to low speed..
+ [2014-05-30 21:37:19] Accepted 2d7c5952 Diff 1.44K/16 BA1 0 pool 1                     
+ [2014-05-30 21:37:19] Accepted 1c5753a9 Diff 2.31K/16 BA1 1 pool 1                     
+ [2014-05-30 21:37:19] Accepted 01ab05ae Diff 153/16 BA1 0 pool 1                     
+ [2014-05-30 21:37:19] Accepted f10fca47 Diff 272/16 BA1 2 pool 1                     
+ [2014-05-30 21:37:19] Accepted 01d612d2 Diff 139/16 BA1 2 pool 1                     
+ [2014-05-30 21:37:20] Pool 0 difficulty changed to 15.999756                    
+ [2014-05-30 21:37:20] Pool 0 http://stratum.mining.eligius.st:3334 alive, testing stability                    
+ [2014-05-30 21:37:20] Switching to pool 0 http://stratum.mining.eligius.st:3334                    
+ [2014-05-30 21:37:21] Accepted 870cf3d2 Diff 485/16 BA1 0 pool 1                     
+ [2014-05-30 21:37:21] Accepted 8b0980a6 Diff 471/16 BA1 2 pool 1                     
+ [2014-05-30 21:37:21] Accepted 096e7df2 Diff 6.95K/16 BA1 2 pool 1                     
+ [2014-05-30 21:37:21] Accepted 01abd64d Diff 153/16 BA1 1 pool 1                     
+ [2014-05-30 21:37:21] Accepted 121281af Diff 3.63K/16 BA1 2 pool 0                     
+(5s):976.6G (avg):914.8Gh/s | A:2064  R:0  HW:3  WU:110.3/m           [2014-05-30 21:37:22] Accepted 01435efc Diff 203/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:23] Accepted 596ed844 Diff 733/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:23] Accepted bf3ac708 Diff 343/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:26] Accepted a05b34f9 Diff 409/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:26] Accepted 0efde192 Diff 4.37K/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:26] Accepted 01ad37f6 Diff 153/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:26] Accepted 9acdfba5 Diff 423/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:26] Accepted 012a3250 Diff 220/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:26] Accepted 2f1cf4a2 Diff 1.39K/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:27] Accepted 583da394 Diff 743/16 BA1 0 pool 0                     
+(5s):995.6G (avg):922.2Gh/s | A:2224  R:0  HW:3  WU:110.0/m           [2014-05-30 21:37:28] Accepted 5d2e5442 Diff 703/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:28] Accepted 01c38772 Diff 145/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:29] Accepted b34d8c86 Diff 365/16 BA1 1 pool 0                     
+Set fan full speed..
+ [2014-05-30 21:37:29] Accepted 017687ab Diff 175/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:29] Accepted 01459bb2 Diff 201/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:30] Accepted 013fa596 Diff 205/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:30] Accepted 0130eb8a Diff 215/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:30] chip(cs5) 7: invalid nonce 0x502e33d2                    
+ [2014-05-30 21:37:30] Accepted 01b929a9 Diff 149/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:31] Accepted 9e480dd1 Diff 414/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:31] Accepted 01872cd4 Diff 168/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:32] Accepted 9a79ed15 Diff 424/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:32] Accepted 8da78dc5 Diff 463/16 BA1 1 pool 0                     
+(5s):1.010T (avg):929.1Gh/s | A:2416  R:0  HW:4  WU:112.8/m           [2014-05-30 21:37:32] Accepted f1a1593b Diff 271/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:33] Accepted e98a8757 Diff 281/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:33] Accepted 6ac3708e Diff 614/16 BA1 2 pool 0                     
+set fan to low speed..
+ [2014-05-30 21:37:35] Accepted 50627bb1 Diff 815/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:36] Accepted 3098a82f Diff 1.35K/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:37] Accepted 010372a7 Diff 253/16 BA1 0 pool 0                     
+(5s):1.012T (avg):934.2Gh/s | A:2512  R:0  HW:4  WU:109.7/m           [2014-05-30 21:37:38] Accepted 6bc13a00 Diff 608/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:39] Accepted c1b8b00d Diff 338/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:39] Accepted 01bb0f61 Diff 148/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:40] Accepted 01670406 Diff 183/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:40] Accepted de80d3da Diff 295/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:40] Accepted 014fc9e8 Diff 195/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:40] Accepted 0121df7a Diff 226/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:40] Accepted 010edbd5 Diff 242/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:41] Accepted b280fbac Diff 367/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:41] Accepted d6800fe8 Diff 306/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:41] Accepted 01dccf58 Diff 137/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:41] Accepted 01e658fd Diff 135/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:42] Accepted 011bcbba Diff 231/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:42] Accepted 9cdedf05 Diff 418/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:42] Accepted 8e0531e3 Diff 461/16 BA1 1 pool 0                     
+(5s):1.023T (avg):940.2Gh/s | A:2752  R:0  HW:4  WU:114.9/m           [2014-05-30 21:37:42] Accepted 010c3133 Diff 244/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:42] Accepted 01203d39 Diff 227/16 BA1 0 pool 0                     
+Set fan full speed..
+ [2014-05-30 21:37:43] Accepted 0177ba47 Diff 174/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:44] Accepted 7f8635a9 Diff 514/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:45] Accepted 01d3c9cd Diff 140/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:45] Accepted 349bdc23 Diff 1.25K/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:46] Accepted 0165b824 Diff 183/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:46] Accepted f4e5a208 Diff 268/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:47] Accepted 01f06de1 Diff 132/16 BA1 1 pool 0                     
+(5s):1.011T (avg):942.9Gh/s | A:2896  R:0  HW:4  WU:113.1/m           [2014-05-30 21:37:48] Accepted 01bada3f Diff 148/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:49] Accepted 015a0311 Diff 189/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:50] Accepted 0103fe96 Diff 252/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:50] Accepted bfebc7ef Diff 341/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:51] Accepted 01969713 Diff 161/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:51] Accepted 01c434b6 Diff 145/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:52] Accepted 01b8c67c Diff 149/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:52] Accepted 47d6dfaf Diff 912/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:52] Accepted 466f1279 Diff 930/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:52] Accepted 01ea8974 Diff 134/16 BA1 2 pool 0                     
+(5s):1.004T (avg):945.5Gh/s | A:3056  R:0  HW:4  WU:113.4/m           [2014-05-30 21:37:53] Accepted 2ddaaf49 Diff 1.43K/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:53] Accepted 0135c497 Diff 212/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:53] Accepted 01e802b4 Diff 134/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:53] Accepted a65e284d Diff 394/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:54] Accepted 35416fc0 Diff 1.23K/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:54] Accepted 0123aa87 Diff 225/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:55] Accepted 92bc326b Diff 447/16 BA1 0 pool 0                     
+ [2014-05-30 21:37:55] Accepted eade55ca Diff 279/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:55] Accepted 28ef9f50 Diff 1.6K/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:55] Accepted 010710b5 Diff 249/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:56] Accepted 235b3c84 Diff 1.85K/16 BA1 2 pool 0                     
+ [2014-05-30 21:37:56] Accepted 01d2b1af Diff 140/16 BA1 1 pool 0                     
+ [2014-05-30 21:37:57] Accepted 3f615001 Diff 1.03K/16 BA1 3 pool 0                     
+(5s):1.009T (avg):948.8Gh/s | A:3264  R:0  HW:4  WU:115.4/m           [2014-05-30 21:37:58] Accepted 0147ca38 Diff 200/16 BA1 3 pool 0                     
+ [2014-05-30 21:37:59] Accepted 95e8063a Diff 437/16 BA1 0 pool 0                     
+ [2014-05-30 21:38:00] Accepted d2cefb6b Diff 311/16 BA1 2 pool 0                     
+ [2014-05-30 21:38:01] Accepted 0157cdd6 Diff 191/16 BA1 2 pool 0                     
+ [2014-05-30 21:38:02] Accepted 0ebe426b Diff 4.45K/16 BA1 2 pool 0                     
+(5s):1.017T (avg):952.5Gh/s | A:3344  R:0  HW:4  WU:113.4/m           [2014-05-30 21:38:03] Accepted a9093e35 Diff 388/16 BA1 0 pool 0                     
+ [2014-05-30 21:38:04] Accepted 9fe99014 Diff 410/16 BA1 1 pool 0                     
+ [2014-05-30 21:38:04] Accepted 01128065 Diff 239/16 BA1 0 pool 0                     
+ [2014-05-30 21:38:05] Accepted 3dd589f9 Diff 1.06K/16 BA1 1 pool 0                     
+set fan to low speed..
+Set fan full speed..
+ [2014-05-30 21:38:05] Accepted 9d071393 Diff 417/16 BA1 1 pool 0                     
+set fan to low speed..
+ [2014-05-30 21:38:05] Accepted 018b873c Diff 166/16 BA1 0 pool 0                     
+ [2014-05-30 21:38:05] Accepted 011d8525 Diff 230/16 BA1 3 pool 0                     
+ [2014-05-30 21:38:05] Accepted 01393a04 Diff 209/16 BA1 2 pool 0                     
+ [2014-05-30 21:38:06] Accepted 01c76b9b Diff 144/16 BA1 3 pool 0                     
+ [2014-05-30 21:38:06] Accepted 0119e9c1 Diff 232/16 BA1 0 pool 0                     
+ [2014-05-30 21:38:07] Accepted 6f89418e Diff 588/16 BA1 2 pool 0                     
+(5s):1.015T (avg):955.1Gh/s | A:3520  R:0  HW:4  WU:115.1/m           [2014-05-30 21:38:08] Accepted 0be76eea Diff 5.5K/16 BA1 3 pool 0                     
+ [2014-05-30 21:38:08] Accepted 125f146f Diff 3.57K/16 BA1 3 pool 0                     
+ [2014-05-30 21:38:08] Accepted 97b1cc34 Diff 432/16 BA1 2 pool 0                     
+ [2014-05-30 21:38:09] Accepted 01a23727 Diff 157/16 BA1 1 pool 0                     
+ [2014-05-30 21:38:10] Accepted a4129841 Diff 399/16 BA1 3 pool 0                     
+ [2014-05-30 21:38:10] Accepted 0c926b5a Diff 5.21K/16 BA1 0 pool 0                     
+ [2014-05-30 21:38:10] Accepted 016e58bf Diff 179/16 BA1 1 pool 0                     
+ [2014-05-30 21:38:10] Pool 0 difficulty changed to 127.998047                    
+ [2014-05-30 21:38:11] Accepted d5b64d1b Diff 307/128 BA1 3 pool 0                     
+(5s):1.022T (avg):958.4Gh/s | A:3760  R:0  HW:4  WU:112.7/m          Set fan full speed..
+set fan to low speed..
+Set fan full speed..
+set fan to low speed..
+Set fan full speed..
+set fan to low speed..
+Set fan full speed..
+set fan to low speed..
+ [2014-05-30 21:38:16] Accepted b39b38bf Diff 365/128 BA1 1 pool 0                     
+Set fan full speed..
+set fan to low speed..
+Set fan full speed..
+set fan to low speed..
+Set fan full speed..
+set fan to low speed..
+Set fan full speed..
+ [2014-05-30 21:38:16] Accepted 5da35a3d Diff 700/128 BA1 3 pool 0                     
+set fan to low speed..
+Set fan full speed..
+set fan to low speed..
+Set fan full speed..
+(5s):1.023T (avg):961.1Gh/s | A:4016  R:0  HW:4  WU:109.1/m           [2014-05-30 21:38:18] Accepted 01c51042 Diff 145/128 BA1 0 pool 0                     
+ [2014-05-30 21:38:20] Accepted 01fd6392 Diff 129/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:20] Accepted 019e5770 Diff 158/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:21] Accepted 296975fa Diff 1.58K/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:22] Accepted 2dfd18b1 Diff 1.43K/128 BA1 2 pool 0                     
+ [2014-05-30 21:38:22] Accepted 364a95ef Diff 1.21K/128 BA1 3 pool 0                     
+ [2014-05-30 21:38:22] Accepted 6c2fbe52 Diff 606/128 BA1 0 pool 0                     
+(5s):1.022T (avg):963.5Gh/s | A:4912  R:0  HW:4  WU:108.5/m           [2014-05-30 21:38:23] Accepted 012580c3 Diff 223/128 BA1 3 pool 0                     
+ [2014-05-30 21:38:23] Accepted c40354e7 Diff 334/128 BA1 0 pool 0                     
+ [2014-05-30 21:38:24] Accepted 01a09984 Diff 157/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:24] Accepted 0165b95b Diff 183/128 BA1 2 pool 0                     
+ [2014-05-30 21:38:24] Accepted 01a5893d Diff 155/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:25] Accepted 01a4377b Diff 156/128 BA1 3 pool 0                     
+ [2014-05-30 21:38:26] Accepted e536639a Diff 286/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:27] Accepted 013629b8 Diff 211/128 BA1 2 pool 0                     
+ [2014-05-30 21:38:27] Accepted b3c3c26b Diff 365/128 BA1 2 pool 0                     
+ [2014-05-30 21:38:28] Accepted 013d4d57 Diff 207/128 BA1 3 pool 0                     
+(5s):1.023T (avg):965.7Gh/s | A:6192  R:0  HW:4  WU:108.5/m           [2014-05-30 21:38:29] Accepted bdd33037 Diff 345/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:29] Accepted b5769149 Diff 361/128 BA1 0 pool 0                     
+ [2014-05-30 21:38:30] Accepted 53beef7f Diff 783/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:31] Accepted ad29185e Diff 378/128 BA1 0 pool 0                     
+ [2014-05-30 21:38:31] Accepted 01ef7d6e Diff 132/128 BA1 3 pool 0                     
+ [2014-05-30 21:38:32] Accepted 8c2acac8 Diff 468/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:32] Accepted 8219d981 Diff 504/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:32] Accepted 014f9fb0 Diff 195/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:32] Accepted 092ac0fd Diff 7.15K/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:33] Accepted b0197cf3 Diff 372/128 BA1 1 pool 0                     
+(5s):1.026T (avg):968.0Gh/s | A:7472  R:0  HW:4  WU:108.9/m           [2014-05-30 21:38:33] Accepted c28ac881 Diff 337/128 BA1 3 pool 0                     
+ [2014-05-30 21:38:34] Accepted 01743c5e Diff 176/128 BA1 0 pool 0                     
+ [2014-05-30 21:38:34] Accepted 01292180 Diff 221/128 BA1 0 pool 0                     
+ [2014-05-30 21:38:35] Accepted 3e507351 Diff 1.05K/128 BA1 0 pool 0                     
+ [2014-05-30 21:38:35] Accepted ad107ed1 Diff 379/128 BA1 0 pool 0                     
+ [2014-05-30 21:38:35] Accepted 318bd75d Diff 1.32K/128 BA1 3 pool 0                     
+ [2014-05-30 21:38:36] Accepted d0d96c16 Diff 314/128 BA1 1 pool 0                     
+ [2014-05-30 21:38:37] Accepted 011c7c77 Diff 230/128 BA1 2 pool 0                     
+ [2014-05-30 21:38:37] Accepted 673ac48f Diff 635/128 BA1 3 pool 0                     
+ [2014-05-30 21:38:37] Accepted fb546427 Diff 261/128 BA1 1 pool 0                     
+(5s):1.019T (avg):969.4Gh/s | A:8752  R:0  HW:4  WU:109.2/m           [2014-05-30 21:38:38] Accepted 010b68a5 Diff 245/128 BA1 3 pool 0                     
+ [2014-05-30 21:38:39] Accepted 01173c97 Diff 235/128 BA1 2 pool 0                     
+ [2014-05-30 21:38:40] Pool 0 difficulty changed to 511.992188                    
+(5s):1.021T (avg):971.3Gh/s | A:9008  R:0  HW:4  WU:106.8/m           [2014-05-30 21:38:44] Accepted 03282c26 Diff 20.8K/512 BA1 0 pool 0                     
+ [2014-05-30 21:38:44] Accepted 1be4c631 Diff 2.35K/512 BA1 3 pool 0                     
+ [2014-05-30 21:38:47] Accepted 05923bf0 Diff 11.8K/512 BA1 0 pool 0                     
+(5s):1.030T (avg):973.6Gh/s | A:10544  R:0  HW:4  WU:107.6/m           [2014-05-30 21:38:50] Accepted 4a32d5fb Diff 883/512 BA1 3 pool 0                     
+ [2014-05-30 21:38:50] Accepted 323be0cd Diff 1.3K/512 BA1 2 pool 0                     
+ [2014-05-30 21:38:50] Accepted 285340a4 Diff 1.62K/512 BA1 2 pool 0                     
+(5s):1.028T (avg):975.2Gh/s | A:12080  R:0  HW:4  WU:105.7/m           [2014-05-30 21:38:53] Accepted 2e16c1e5 Diff 1.42K/512 BA1 3 pool 0                     
+ [2014-05-30 21:38:54] Accepted 6294c1c2 Diff 665/512 BA1 0 pool 0                     
+(5s):1.021T (avg):976.3Gh/s | A:13104  R:0  HW:4  WU:105.0/m          (5s):981.8G (avg):974.6Gh/s | A:13104  R:0  HW:4  WU:103.3/m           [2014-05-30 21:39:04] Accepted 74576cda Diff 563/512 BA1 0 pool 0                     
+(5s):945.5G (avg):972.1Gh/s | A:13616  R:0  HW:4  WU:103.0/m           [2014-05-30 21:39:09] Accepted 7dc5de18 Diff 521/512 BA1 3 pool 0                     
+ [2014-05-30 21:39:12] Accepted 2876a1cc Diff 1.62K/512 BA1 1 pool 0                     
+(5s):954.4G (avg):972.0Gh/s | A:14640  R:0  HW:4  WU:102.8/m           [2014-05-30 21:39:18] Accepted 318c2328 Diff 1.32K/512 BA1 2 pool 0                     
+ [2014-05-30 21:39:18] Accepted 10aae397 Diff 3.93K/512 BA1 3 pool 0                     
+(5s):965.1G (avg):972.3Gh/s | A:15664  R:0  HW:4  WU:102.3/m           [2014-05-30 21:39:19] Accepted 1f826341 Diff 2.08K/512 BA1 0 pool 0                     
+ [2014-05-30 21:39:20] Accepted 2fc05fae Diff 1.37K/512 BA1 2 pool 0                     
+ [2014-05-30 21:39:22] Accepted 2308e9bf Diff 1.87K/512 BA1 2 pool 0                     
+(5s):880.0G (avg):966.4Gh/s | A:17200  R:0  HW:4  WU:101.8/m           [2014-05-30 21:39:26] Accepted 743673e5 Diff 564/512 BA1 2 pool 0                     
+(5s):772.1G (avg):956.9Gh/s | A:17712  R:0  HW:4  WU:100.7/m           [2014-05-30 21:39:32] Accepted 50121873 Diff 818/512 BA1 3 pool 0                     
+(5s):732.9G (avg):949.8Gh/s | A:18224  R:0  HW:4  WU:99.9/m          (5s):693.4G (avg):942.1Gh/s | A:18224  R:0  HW:4  WU:98.1/m          set fan to low speed..
+(5s):630.6G (avg):932.3Gh/s | A:18224  R:0  HW:4  WU:97.2/m           [2014-05-30 21:39:45] Accepted 40709470 Diff 1.02K/512 BA1 3 pool 0                     
+(5s):636.8G (avg):925.6Gh/s | A:18736  R:0  HW:4  WU:97.4/m          

@@ -1,0 +1,30 @@
+body
+{	
+	background:black;
+	background:url('../img/background2.jpg');
+	background-size: cover;
+}
+#container
+{
+	width:1200px;
+	border:1px solid black;
+	padding:25px;
+	background:white;
+}
+.jgauge
+{
+	float: none !important;
+}
+#gaugetable
+{
+	text-align: center !important;
+}
+#ghs_total
+{
+	color:red;
+	font-weight:bold;
+}
+#ghs_total_big
+{
+	font-size:100px;	
+}
